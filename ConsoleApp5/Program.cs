@@ -11,6 +11,13 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            ShowRandomNumber();
+        }
+
+        static void ShowRandomNumber()
+        {
+            Random random = new Random();
+            Console.WriteLine(random.Next());
         }
     }
 }
