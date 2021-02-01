@@ -1,7 +1,0 @@
-C:\test\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
-C:\test\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
-C:\test\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
-C:\test\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
-C:\test\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
-C:\test\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
-C:\test\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
